@@ -1,0 +1,6 @@
+,model,F1 Score
+0,ADA Boost,0.524
+1,Random Forest,0.613
+2,GBC,0.75
+3,XGB Classifier,0.834
+4,LGBM Classifier,0.845
